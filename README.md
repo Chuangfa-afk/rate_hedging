@@ -40,9 +40,5 @@ A side-by-side evaluation of both strategies based on inputs like notional amoun
 - Analyzes expected cash flows, presenting an interactive plot and summarized table.
 
 ## Getting Started
-For full access to the tool and in-depth analyses, visit [Interest Rate Hedging Tool Link](#).
+For full access to the tool and in-depth analyses, visit https://hedging.shinyapps.io/capstone/
 
-### Installation
-```sh
-library(shiny)
-runGitHub("username/repo")
